@@ -12,7 +12,5 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJ0YnM3a2d5dHc0djVoMzhmanIxd3Frd3o2c3h5ZWhhZmcyZm1pdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SYNazVYUqpCxY1HLHf/giphy.webp" width="35" align="center"> Activity
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gomanosuke" />
-  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gomanosuke
-  " />
 </div>
 
