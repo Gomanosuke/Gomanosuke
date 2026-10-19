@@ -1,5 +1,8 @@
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<div align="center">
+	<img src="gen_city.png" width="1000">
+</div>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="center"> Hi there
 
 - 🧑‍💻 I'm a Technical Artist.
 - 🌱 I’m currently learning python!
