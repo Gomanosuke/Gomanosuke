@@ -1,7 +1,3 @@
-<div align="center">
-	<img src="gen_city.png" width="700">
-</div>
-
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA2MzZ1YXZudnV0d2MzZGRwbGl6MWQ4a3ozam91aWw2MGQ1eWtjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z1KI20lbjNTwTz78tu/giphy.gif" width="35" align="center"> Hi there
 
 - 🧑‍💻 I'm a Technical Artist.
